@@ -3,16 +3,16 @@
 
 ## 👦 About Me
 - 🔭 I'm a `Cadet` at [![42 Kuala Lumpur](https://profile.intra.42.fr/favicon.ico)](https://42kl.edu.my/) Kuala Lumpur
-- 🛠️ Currently working on [**_`Inception`_**](https://github.com/hooyunzhe/Inception) and [**_`reformatted-sheets`_**](https://github.com/hooyunzhe/reformatted-sheets)
+- 🛠️ Currently working on [**_`reformatted-sheets`_**](https://github.com/hooyunzhe/reformatted-sheets)
 - 🌱 Always interested in projects that will help me gain exposure to new things
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=hooyunzhe&style=for-the-badge"></a>
 
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=py,selenium,c,cpp,cs,unity,js,html,css,react,bash,r,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,selenium,c,cpp,cs,unity,js,html,css,react,bash,regex,r)](https://skillicons.dev)
 
 ## 🔧 Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,bash,vim,linux,docker,nginx,wordpress,nodejs)]()
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,bash,vim,linux,docker,nginx,wordpress,redis,nodejs)]()
 
 ## 📫 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hooyunzhe@gmail.com)
@@ -21,8 +21,5 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hooyunzhe)
 
 ---
-
-<!--| [![Yun Zhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hooyunzhe&hide=issues&show_icons=true&count_private=true&theme=nightowl)](https://github.com/hooyunzhe?tab=repositories) | [![Yun Zhe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hooyunzhe&layout=compact&theme=nightowl&exclude_repo=r_data_science)](https://github.com/hooyunzhe?tab=repositories) |
-|-|-|-->
 
 [![Yun Zhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hooyunzhe&hide=issues&show_icons=true&count_private=true&theme=nightowl)](https://github.com/hooyunzhe?tab=repositories) [![Yun Zhe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hooyunzhe&layout=compact&theme=nightowl&exclude_repo=r_data_science)](https://github.com/hooyunzhe?tab=repositories)
