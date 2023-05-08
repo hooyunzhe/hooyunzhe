@@ -3,7 +3,7 @@
 
 ## 👦 About Me
 - 🔭 I'm a `Cadet` at [![42 Kuala Lumpur](https://profile.intra.42.fr/favicon.ico)](https://42kl.edu.my/) Kuala Lumpur
-- 🛠️ Currently working on [**_`reformatted-sheets`_**](https://github.com/hooyunzhe/reformatted-sheets)
+- 🛠️ Currently working on [**_`ft_transcendence`_**](https://github.com/hooyunzhe/ft_transcendence) and  [**_`reformatted-sheets`_**](https://github.com/hooyunzhe/reformatted-sheets)
 - 🌱 Always interested in projects that will help me gain exposure to new things
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=hooyunzhe&style=for-the-badge"></a>
