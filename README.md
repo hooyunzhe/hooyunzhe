@@ -3,16 +3,16 @@
 
 ## 👦 About Me
 - 🔭 I'm a `Cadet` at [![42 Kuala Lumpur](https://profile.intra.42.fr/favicon.ico)](https://42kl.edu.my/) Kuala Lumpur
-- 🛠️ Currently working on [**_`ft_transcendence`_**](https://github.com/hooyunzhe/ft_transcendence) and  [**_`reformatted-sheets`_**](https://github.com/hooyunzhe/reformatted-sheets)
+- 🛠️ Currently working on [**_`reformatted-sheets`_**](https://github.com/hooyunzhe/reformatted-sheets)
 - 🌱 Always interested in projects that will help me gain exposure to new things
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=hooyunzhe&style=for-the-badge"></a>
 
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=py,selenium,c,cpp,cs,unity,js,html,css,react,bash,regex,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,selenium,c,cpp,cs,unity,js,ts,nestjs,html,css,react,nextjs,materialui,bash,regex,r)](https://skillicons.dev)
 
 ## 🔧 Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,bash,vim,linux,docker,nginx,wordpress,redis,nodejs)]()
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,bash,vim,linux,docker,nginx,wordpress,nodejs,postgres,postman)]()
 
 ## 📫 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hooyunzhe@gmail.com)
